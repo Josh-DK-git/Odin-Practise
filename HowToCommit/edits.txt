@@ -1,0 +1,1 @@
+I am using nano as my commit editor and I am learning how to create a template
